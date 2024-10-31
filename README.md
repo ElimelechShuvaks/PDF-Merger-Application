@@ -1,6 +1,6 @@
 # PDF Merger Application
 
-**אפליקציה גרפית לאיחוד קבצי PDF, מבוססת על PyQt5.**
+**תוכנה גרפית לאיחוד קבצי PDF, מבוססת על PyQt5.**
 
 ![PDF Merger Icon](https://img.icons8.com/plasticine/100/pdf-2.png)
 
@@ -30,8 +30,8 @@
 - **מערכת הפעלה Windows** (לגרסת EXE בלבד)
 - אין צורך בהתקנת Python או ספריות נוספות
 
-## הורדה
-להורדת האפליקציה כקובץ EXE [לחץ כאן](https://github.com/YOUR_USERNAME/PDF_Merger/releases).
+# הורדה
+## להורדת האפליקציה כקובץ EXE [לחץ כאן](https://github.com/YOUR_USERNAME/PDF_Merger/releases).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
