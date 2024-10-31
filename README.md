@@ -31,7 +31,8 @@
 - אין צורך בהתקנת Python או ספריות נוספות
 
 # הורדה
-## להורדת האפליקציה כקובץ EXE [לחץ כאן](https://github.com/YOUR_USERNAME/PDF_Merger/releases).
+## להורדת האפליקציה כקובץ EXE [לחץ כאן](https://github.com/ElimelechShuvaks/PDF-Merger-Application/releases/download/v1.0/marge_pdf.exe).
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
